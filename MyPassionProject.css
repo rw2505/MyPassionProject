@@ -1,4 +1,50 @@
 body{
 	background: peachpuff;
 
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+li{
+	list-style:none;
+	display: inline;
+	float; right;
+	padding: 10px;
+	border: solid blue 5px;
+}
+
+img{
+	width: 50%;
+	padding: 10px;
+	
+}
+
+.center{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.pictures{
+	margin: 0 auto;
+	text-align: center;
+	
+	
+}
+/**
+.fifty img{
+	width: 50%;
+}
+
+
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+**/
+div{
+	float: none;
 }
