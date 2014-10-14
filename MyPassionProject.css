@@ -28,8 +28,9 @@ img{
 	margin: 0 auto;
 	text-align: center;
 	
-	
 }
+
+
 /**
 .fifty img{
 	width: 50%;
@@ -47,4 +48,12 @@ img{
 **/
 div{
 	float: none;
+}
+
+.justify { 
+text-align: justify;
+}
+
+.RedText {
+	color: red;
 }
