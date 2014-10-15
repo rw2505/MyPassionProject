@@ -22,6 +22,7 @@ img{
 .center{
 	margin: 0 auto;
 	text-align: center;
+	text-align: justify;
 }
 
 .pictures{
@@ -50,10 +51,14 @@ div{
 	float: none;
 }
 
-.justify { 
-text-align: justify;
-}
-
 .RedText {
 	color: red;
 }
+
+.justify { 
+text-align: center;
+margin: 0 auto;
+width: 50%;
+}
+
+
