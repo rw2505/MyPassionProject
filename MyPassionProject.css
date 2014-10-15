@@ -55,10 +55,14 @@ div{
 	color: red;
 }
 
-.justify { 
-text-align: center;
-margin: 0 auto;
-width: 50%;
+.container { 
+	text-align: center;
+	margin: 0 auto;
+	width: 50%;
 }
 
+/**
+#verticalalign{
+	vertical-align: baseline;
+}
 
